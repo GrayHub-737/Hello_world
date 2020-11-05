@@ -2,4 +2,8 @@
 
 Hello world!
 
-Opening a new branch so that it can allow me to update my original repository.
+Welcome to GitHub.
+
+Changes will be made here ...
+
+End of edits.
